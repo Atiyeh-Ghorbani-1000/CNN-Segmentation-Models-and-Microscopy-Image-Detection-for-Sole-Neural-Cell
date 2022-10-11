@@ -16,6 +16,6 @@ Current solutions have limited accuracy for neuronal cells in particular. In int
 #     
 
 
-For further data and to review the code you can see the head of the projects on the below link :
+For further data and to review the code you can see the head of the project's page on the below link :
 
 https://github.com/Alireza-Rahimi-3000/CNN-Segmentation-Models-and-Microscopy-Image-Detection-for-Sole-Neural-Cell
